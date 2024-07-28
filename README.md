@@ -1,2 +1,2 @@
 # delta-demo
-This is D emo for Git and Github class
+This is Demo for Git and Github class
